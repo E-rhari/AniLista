@@ -89,7 +89,6 @@ id_media,id_studio,isMain
 116674,6570,False
 116674,53,False
 176301,28,True
-176301,28,True
 176301,245,True
 176301,58,True
 176301,7368,True
@@ -139,7 +138,6 @@ id_media,id_studio,isMain
 21,416,False
 21,142,True
 21,6291,True
-182255,11,True
 182255,11,True
 182255,17,False
 182255,245,True
@@ -200,7 +198,6 @@ id_media,id_studio,isMain
 140439,843,True
 140439,777,False
 146984,569,True
-146984,569,True
 146984,10,False
 146984,159,True
 146984,144,False
@@ -226,12 +223,10 @@ id_media,id_studio,isMain
 177385,6377,False
 177385,6796,True
 103047,2,True
-103047,2,True
 103047,144,True
 103047,6331,True
 103047,6377,True
 103047,211,False
-110277,569,False
 110277,569,False
 110277,10,False
 110277,159,False
@@ -254,7 +249,6 @@ id_media,id_studio,isMain
 130003,6222,True
 130003,17,False
 130003,797,False
-131681,569,False
 131681,569,False
 131681,10,True
 131681,159,False
@@ -286,7 +280,6 @@ id_media,id_studio,isMain
 169755,6570,False
 169755,7517,False
 169755,53,True
-178788,43,False
 178788,43,False
 178788,17,False
 178788,6570,True
@@ -320,7 +313,6 @@ id_media,id_studio,isMain
 159322,6570,True
 159322,53,True
 159322,6563,True
-166216,247,False
 166216,247,False
 166216,53,False
 166216,166,False
@@ -408,7 +400,6 @@ id_media,id_studio,isMain
 121467,6485,True
 127976,6389,True
 127976,7050,False
-142329,43,False
 142329,43,False
 142329,17,False
 142329,6570,False
@@ -552,7 +543,6 @@ id_media,id_studio,isMain
 20958,749,False
 97983,6071,False
 195516,28,False
-195516,28,False
 195516,245,False
 195516,58,False
 195516,53,False
@@ -588,7 +578,6 @@ id_media,id_studio,isMain
 127720,6569,False
 127720,6674,False
 166531,95,False
-166531,95,False
 166531,6698,False
 166531,6570,False
 166531,7232,False
@@ -596,7 +585,6 @@ id_media,id_studio,isMain
 44,493,False
 137667,6382,False
 137667,6485,False
-189117,73,False
 189117,73,False
 189117,245,False
 189117,6570,False
@@ -627,10 +615,8 @@ id_media,id_studio,isMain
 7785,769,False
 140842,95,False
 190840,1,False
-190840,1,False
 190840,6570,False
 190840,6429,False
-190840,6109,False
 190840,6109,False
 190840,317,False
 194884,561,False
@@ -647,7 +633,6 @@ id_media,id_studio,isMain
 245,1,False
 245,17,False
 245,467,False
-11741,43,False
 11741,43,False
 11741,17,False
 11741,493,False
@@ -711,7 +696,6 @@ id_media,id_studio,isMain
 176496,7484,False
 176496,7464,False
 176496,7485,False
-181444,6222,False
 181444,6222,False
 181444,17,False
 181444,159,False
@@ -803,12 +787,10 @@ id_media,id_studio,isMain
 141249,33,False
 141249,6758,False
 150672,95,False
-150672,95,False
 150672,6698,False
 150672,6570,False
 150672,7232,False
 182309,159,False
-182309,6117,False
 182309,6117,False
 182309,143,False
 182309,31,False
@@ -820,7 +802,6 @@ id_media,id_studio,isMain
 202269,238,False
 202269,109,False
 202269,6443,False
-202269,6443,False
 202269,6562,False
 202269,7801,False
 202269,7756,False
@@ -830,7 +811,6 @@ id_media,id_studio,isMain
 9617,376,False
 9617,144,False
 9617,929,False
-21718,43,False
 21718,43,False
 21718,17,False
 21718,6698,False
@@ -845,7 +825,6 @@ id_media,id_studio,isMain
 100388,53,False
 100388,166,False
 100388,6161,False
-112151,43,False
 112151,43,False
 112151,17,False
 112151,6570,False
@@ -865,7 +844,6 @@ id_media,id_studio,isMain
 109190,2,False
 168872,10,False
 168872,6570,False
-190569,6145,False
 190569,6145,False
 190569,55,False
 190569,7232,False
@@ -956,7 +934,6 @@ id_media,id_studio,isMain
 113260,6140,False
 113260,7050,False
 182205,4418,False
-182205,4418,False
 182205,159,False
 182205,7137,False
 182205,6620,False
@@ -983,7 +960,6 @@ id_media,id_studio,isMain
 127595,6697,False
 164212,18,False
 185660,6145,False
-185660,6145,False
 185660,17,False
 185660,6570,False
 185660,53,False
@@ -993,7 +969,6 @@ id_media,id_studio,isMain
 170,102,False
 170,55,False
 170,140,False
-100178,2,False
 100178,2,False
 100178,929,False
 101921,561,False
@@ -1123,17 +1098,14 @@ id_media,id_studio,isMain
 170166,6655,False
 170166,7049,False
 171018,6145,False
-171018,6145,False
 171018,17,False
 171018,6570,False
 171018,53,False
 171018,143,False
 171018,62,False
 199221,73,False
-199221,73,False
 199221,245,False
 199221,6570,False
-392,1,False
 392,1,False
 392,102,False
 392,169,False
